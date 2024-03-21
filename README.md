@@ -25,9 +25,9 @@
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
 ## ⚡ Profile Trophy
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashakki" alt="akashakki" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adeeldilmir" alt="adeeldilmir" /></a> </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashakki&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adeeldilmir&hide=TeX&layout=compact)
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fakashakki%2Fakashakki&label=Visitors%20Today&countColor=%23f0b354)
 
